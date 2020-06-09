@@ -1,0 +1,99 @@
+11:18:50 (lmgrd) -----------------------------------------------
+11:18:50 (lmgrd)   Please Note:
+11:18:50 (lmgrd) 
+11:18:50 (lmgrd)   This log is intended for debug purposes only.
+11:18:50 (lmgrd)   In order to capture accurate license
+11:18:50 (lmgrd)   usage data into an organized repository,
+11:18:50 (lmgrd)   please enable report logging. Use Flexera Software LLC's
+11:18:50 (lmgrd)   software license administration  solution,
+11:18:50 (lmgrd)   FlexNet Manager, to  readily gain visibility
+11:18:50 (lmgrd)   into license usage data and to create
+11:18:50 (lmgrd)   insightful reports on critical information like
+11:18:50 (lmgrd)   license availability and usage. FlexNet Manager
+11:18:50 (lmgrd)   can be fully automated to run these reports on
+11:18:50 (lmgrd)   schedule and can be used to track license
+11:18:50 (lmgrd)   servers and usage across a heterogeneous
+11:18:50 (lmgrd)   network of servers including Windows NT, Linux
+11:18:50 (lmgrd)   and UNIX.
+11:18:50 (lmgrd) 
+11:18:50 (lmgrd) -----------------------------------------------
+11:18:50 (lmgrd) 
+11:18:50 (lmgrd) 
+11:18:50 (lmgrd) Server's System Date and Time: Tue Mar 19 2019 11:18:50 대한민국 표준시
+11:18:50 (lmgrd) pid 5300
+11:18:50 (lmgrd) SLOG: Summary LOG statistics is enabled.
+11:18:50 (lmgrd) Detecting other license server manager (lmgrd) processes...
+11:18:53 (lmgrd) Done rereading
+11:18:53 (lmgrd) FlexNet Licensing (v11.15.0.0 build 215548 i86_n3) started on td1sw-server (IBM PC) (3/19/2019)
+11:18:53 (lmgrd) Copyright (c) 1988-2017 Flexera Software LLC. All Rights Reserved.
+11:18:53 (lmgrd) World Wide Web:  http://www.flexerasoftware.com
+11:18:53 (lmgrd) License file(s): C:\VCAST\FLEXlm\vector-TD1SW-SERVER.lic
+11:18:53 (lmgrd) lmgrd tcp-port 27000
+11:18:53 (lmgrd) (@lmgrd-SLOG@) ===============================================
+11:18:53 (lmgrd) (@lmgrd-SLOG@) === LMGRD ===
+11:18:53 (lmgrd) (@lmgrd-SLOG@) Start-Date: Tue Mar 19 2019 11:18:53 대한민국 표준시
+11:18:53 (lmgrd) (@lmgrd-SLOG@) PID: 5300
+11:18:53 (lmgrd) (@lmgrd-SLOG@) LMGRD Version: v11.15.0.0 build 215548 i86_n3 ( build 215548 (ipv6))
+11:18:53 (lmgrd) (@lmgrd-SLOG@) 
+11:18:53 (lmgrd) (@lmgrd-SLOG@) === Network Info ===
+11:18:53 (lmgrd) (@lmgrd-SLOG@) Listening port: 27000
+11:18:53 (lmgrd) (@lmgrd-SLOG@) 
+11:18:53 (lmgrd) (@lmgrd-SLOG@) === Startup Info ===
+11:18:53 (lmgrd) (@lmgrd-SLOG@) Is LS run as a service: Yes
+11:18:53 (lmgrd) (@lmgrd-SLOG@) Server Configuration: Single Server
+11:18:53 (lmgrd) (@lmgrd-SLOG@) Command-line options used at LS startup: -c C:\VCAST\FLEXlm\vector-TD1SW-SERVER.lic -l C:\VCAST\FLEXlm\log.log -z -s 
+11:18:53 (lmgrd) (@lmgrd-SLOG@) License file(s) used:  C:\VCAST\FLEXlm\vector-TD1SW-SERVER.lic
+11:18:53 (lmgrd) (@lmgrd-SLOG@) ===============================================
+11:18:53 (lmgrd) SLOG: FNPLS-INTERNAL-VL1-4096
+11:18:53 (lmgrd) Starting vendor daemons ... 
+11:18:53 (lmgrd) Started vector (pid 5312)
+11:18:53 (vector) FlexNet Licensing version v11.15.0.0 build 215548 i86_n3
+11:18:53 (vector) SLOG: Summary LOG statistics is enabled.
+11:18:53 (vector) SLOG: FNPLS-INTERNAL-CKPT1
+11:18:53 (vector) SLOG: VM Status: 0
+11:18:53 (vector) SLOG: FNPLS-INTERNAL-CKPT5
+11:18:53 (vector) SLOG: TPM Status: 0
+11:18:53 (vector) SLOG: FNPLS-INTERNAL-CKPT6
+11:18:53 (vector) Server started on td1sw-server for:	
+11:18:53 (vector) EDITION_C_ENT (consisting of:		VCAST_MCDC_0740 
+11:18:53 (vector) PROBE_POINTS_0700 VCAST_C_ENT_0700 CCAST_0701	
+11:18:53 (vector) CCAST_0788	VCAST_CBA_0742	VCAST_REQ_GATEWAY_0772) 
+11:18:53 (vector) VECTORCAST_MANAGE (consisting of:		VCAST_MANAGE_0700) 
+11:18:53 (vector) VECTORCAST_BUILD (consisting of:		CCAST_0702	
+11:18:53 (vector) VCAST_MCDC_0740 PROBE_POINTS_0700) 
+11:18:53 (vector) VECTORCAST_UTILS (consisting of:		VCAST_DISPATCHER_0700 
+11:18:53 (vector) VCAST_VCDB_0700 VCAST_VCSHELL_0700 VCAST_VPYTHON_0700 
+11:18:53 (vector) VCAST_METRICS_0700) VCAST_ANALYTICS_0700 VCAST_ANALYTICS_CLIENT_0700 
+11:18:53 (vector) VCAST_PYEDG_0700 ENTERPRISE_API_0700 CODEGEN_PRODUCT_0700 
+11:18:53 (vector) VCAST_FILE_VERSION_1903181030 
+11:18:53 (vector) EXTERNAL FILTERS are OFF
+11:18:53 (lmgrd) vector using TCP-port 49506
+11:18:53 (vector) SLOG: Statistics Log Frequency is 240 minute(s).
+11:18:53 (vector) SLOG: TS update poll interval is 600 seconds.
+11:18:53 (vector) SLOG: Activation borrow reclaim percentage is 0.
+11:18:53 (vector) (@vector-SLOG@) ===============================================
+11:18:53 (vector) (@vector-SLOG@) === Vendor Daemon ===
+11:18:53 (vector) (@vector-SLOG@) Vendor daemon: vector
+11:18:53 (vector) (@vector-SLOG@) Start-Date: Tue Mar 19 2019 11:18:53 대한민국 표준시
+11:18:53 (vector) (@vector-SLOG@) PID: 5312
+11:18:53 (vector) (@vector-SLOG@) VD Version: v11.15.0.0 build 215548 i86_n3 ( build 215548 (ipv6))
+11:18:53 (vector) (@vector-SLOG@) 
+11:18:53 (vector) (@vector-SLOG@) === Startup/Restart Info ===
+11:18:53 (vector) (@vector-SLOG@) Options file used: None
+11:18:53 (vector) (@vector-SLOG@) Is vendor daemon a CVD: No
+11:18:53 (vector) (@vector-SLOG@) Is FlexNet Licensing Service installed and compatible: No
+11:18:53 (vector) (@vector-SLOG@) FlexNet Licensing Service Version: -NA-
+11:18:53 (vector) (@vector-SLOG@) Is TS accessed: No
+11:18:53 (vector) (@vector-SLOG@) TS access time: -NA-
+11:18:53 (vector) (@vector-SLOG@) Number of VD restarts since LS startup: 0
+11:18:53 (vector) (@vector-SLOG@) 
+11:18:53 (vector) (@vector-SLOG@) === Network Info ===
+11:18:53 (vector) (@vector-SLOG@) Listening port: 49506
+11:18:53 (vector) (@vector-SLOG@) Daemon select timeout (in seconds): 1
+11:18:53 (vector) (@vector-SLOG@) 
+11:18:53 (vector) (@vector-SLOG@) === Host Info ===
+11:18:53 (vector) (@vector-SLOG@) Host used in license file: td1sw-server
+11:18:53 (vector) (@vector-SLOG@) HostID node-locked in license file: e839353131b2 
+11:18:53 (vector) (@vector-SLOG@) HostID of the License Server: "e839353131b2 e839353131b3 0a0027000011"
+11:18:53 (vector) (@vector-SLOG@) Running on Hypervisor: Not determined - treat as Physical
+11:18:53 (vector) (@vector-SLOG@) ===============================================
